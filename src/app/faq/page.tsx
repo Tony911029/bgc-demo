@@ -15,7 +15,7 @@ const FAQ = () => {
         are not medical advice.
       </div>
       <div>
-        If you're interested in a management practice discussed below, please
+        If you&apos;re interested in a management practice discussed below, please
         consult a medical professional before changing your lifestyle.
       </div>
       <FAQList />
