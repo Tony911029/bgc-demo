@@ -1,0 +1,18 @@
+.title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.description {
+    margin-bottom: 2rem;
+}
+
+.description a {
+    color: #0066cc;
+    text-decoration: underline;
+}
+
+.description a:hover {
+    text-decoration: underline;
+}

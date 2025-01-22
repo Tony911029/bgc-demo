@@ -1,0 +1,40 @@
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-self: center;
+    width: 75%;
+    margin: 0 auto 50px auto; 
+}
+
+.item {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+} 
+
+.item img {
+    height: 50px;
+    width: 50px;
+    border-radius: 6px;
+    object-fit: cover;
+    
+  }
+
+.title {
+    font-size: 1.3rem;
+    font-weight: 300;
+    color: #e5e5e5;
+    margin-bottom: 0.5rem;
+}
+
+.description {
+    color: #a0a0a0;
+    font-size: 1rem;
+    line-height: 1.5;
+}
